@@ -1,0 +1,23 @@
+{
+  "name": "lettuce",
+  "version": "1.0.0",
+  "description": "react component with tailwind convert react-native component",
+  "main": "index.js",
+  "scripts": {
+    "test": "lettuce"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedirhangull/lettuce.git"
+  },
+  "author": "Bedirhan GUL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedirhangull/lettuce/issues"
+  },
+  "homepage": "https://github.com/bedirhangull/lettuce#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.3"
+  }
+}
